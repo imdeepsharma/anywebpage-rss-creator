@@ -19,7 +19,6 @@ This project allows you to create an RSS feed from a website that does not provi
 1. **Clone or create the script**:
    Create a file named `rss.py` and copy the following code into it:
    Code as given above
-   ```
 
 2. **Modify the script**:
    - Replace `https://example.com` with the target website's URL.
@@ -53,6 +52,7 @@ This project is released under the MIT License.
   - To create an RSS feed for sites that lack one, you can use scraping tools or services that extract and format data into RSS. Here's how:
 
   - Use Online Tools or Services
+-----------
     - FetchRSS
     - Visit FetchRSS.
     - Enter the website URL and define the content you want to include (e.g., titles, descriptions).
