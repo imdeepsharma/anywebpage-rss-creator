@@ -66,3 +66,9 @@ This project is released under the MIT License.
     - FiveFilters Feed Creator
     - Go to FiveFilters.org.
     - Input the website URL and specify the CSS selectors for content extraction.
+-----------
+  - Using Browser Extensions
+    - RSSHub Radar: Detects content for RSS feeds on various pages and works with [RSSHub](https://rsshub.app/).
+     - Distill Web Monitor: Monitor web page changes and create feeds.
+    - Self-Hosted Solution
+     - Deploy [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge) , a PHP-based tool to generate feeds for sites without one. You can host it on your server and customize it for various sources.
